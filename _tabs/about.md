@@ -4,15 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
 ## U Nithin Reddy
 
 Student | Cybersecurity Enthusiast | CYSEC Club President
 
 Email: [nlthinudumala@gmail.com](mailto:nlthinudumala@gmail.com)  
 Location: Hyderabad, India  
-Phone: +91 62813 40988  
 
 ---
 
