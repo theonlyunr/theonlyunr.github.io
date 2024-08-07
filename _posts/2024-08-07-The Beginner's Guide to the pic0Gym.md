@@ -1,6 +1,6 @@
 ---
 title: "The Beginner's Guide to the picoGym"
-date: 2024-08-07 00:32:00 +23:55
+date: 2024-08-07 00:40:00 +23:55
 categories: [CTF]
 tags: [CTF]
 ---
@@ -76,6 +76,8 @@ Author: Pandu
 Cryptography can be easy, do you know what ROT13 is? `cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_uJdSftmh}`
 
 I used https://gchq.github.io/CyberChef/ and solved it 
+
+![Untitled](The%20Beginner's%20Guide%20to%20the%20picoGym%202a8dde23beab4f35a51d16480cfe1c34/Untitled.png)
 
 <aside>
 <img src="https://www.notion.so/icons/flag-swallowtail_green.svg" alt="https://www.notion.so/icons/flag-swallowtail_green.svg" width="40px" /> picoCTF{next_time_I'll_try_2_rounds_of_rot13_hWqFsgzu}
